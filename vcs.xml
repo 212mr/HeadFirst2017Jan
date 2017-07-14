@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/wangruowen/PaperRockScissorLizardSpock.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/212mr/608m06" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects/AAU/wnm601" />
+    <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects/AAU/wnm608" />
   </component>
 </application>
